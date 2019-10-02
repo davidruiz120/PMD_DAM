@@ -1,6 +1,6 @@
 # Programación multimedia y dispositivos móviles
 Desarrollo de Aplicaciones Multiplataforma - 2019/2020
-## David Ruiz Hurtado
+### David Ruiz Hurtado
 
 
 ## Link web
