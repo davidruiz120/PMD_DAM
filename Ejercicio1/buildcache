@@ -22,7 +22,7 @@
         "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
       },
       "./src/main.ts": {
-        "version": "77d8eda85b584769ac04e34c793c10ce4ed8dbbf4d7bf77be5cfba2d652ce0cc",
+        "version": "ad12a63f94d1e2a81450ed7f37f782d143787a21dda0014c6a545d4052275662",
         "signature": "ea40b50f846007b4bfe5722ecb0b2c2030033457e47c6f489425bc2b9df186a0"
       }
     },
@@ -50,23 +50,7 @@
         [
           {
             "file": "./src/main.ts",
-            "start": 190,
-            "length": 9,
-            "messageText": "Object is possibly 'null'.",
-            "category": 1,
-            "code": 2531
-          },
-          {
-            "file": "./src/main.ts",
-            "start": 326,
-            "length": 11,
-            "messageText": "Object is possibly 'null'.",
-            "category": 1,
-            "code": 2531
-          },
-          {
-            "file": "./src/main.ts",
-            "start": 443,
+            "start": 487,
             "length": 31,
             "messageText": "Object is possibly 'null'.",
             "category": 1,
@@ -74,7 +58,7 @@
           },
           {
             "file": "./src/main.ts",
-            "start": 475,
+            "start": 519,
             "length": 5,
             "code": 2339,
             "category": 1,
@@ -82,7 +66,7 @@
           },
           {
             "file": "./src/main.ts",
-            "start": 504,
+            "start": 556,
             "length": 30,
             "messageText": "Object is possibly 'null'.",
             "category": 1,
@@ -90,39 +74,7 @@
           },
           {
             "file": "./src/main.ts",
-            "start": 535,
-            "length": 5,
-            "code": 2339,
-            "category": 1,
-            "messageText": "Property 'value' does not exist on type 'HTMLElement'."
-          },
-          {
-            "file": "./src/main.ts",
-            "start": 704,
-            "length": 31,
-            "messageText": "Object is possibly 'null'.",
-            "category": 1,
-            "code": 2531
-          },
-          {
-            "file": "./src/main.ts",
-            "start": 736,
-            "length": 5,
-            "code": 2339,
-            "category": 1,
-            "messageText": "Property 'value' does not exist on type 'HTMLElement'."
-          },
-          {
-            "file": "./src/main.ts",
-            "start": 755,
-            "length": 30,
-            "messageText": "Object is possibly 'null'.",
-            "category": 1,
-            "code": 2531
-          },
-          {
-            "file": "./src/main.ts",
-            "start": 786,
+            "start": 587,
             "length": 5,
             "code": 2339,
             "category": 1,
