@@ -21,7 +21,16 @@ var Main = /** @class */ (function () {
         document.getElementById("age").value = "";
     };
     Main.prototype.print = function () {
-        console.log(lista);
+        //console.log(lista);
+        var tablasalida = document.getElementById("tablabody");
+        while (tablasalida.firstChild) { // Primero elimino lo que hay en la tabla
+            tablasalida.removeChild(tablasalida.firstChild);
+        }
+        lista.forEach(function (item, index) {
+            //console.log("N:"+item.nombre+"  E:"+item.edad+"  I:"+index);
+            var html = '<tr><td>' + item.nombre + '</td><td>' + item.edad + '</td></tr>';
+            tablasalida.insertAdjacentHTML('beforeend', html);
+        });
     };
     return Main;
 }());
